@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<DO NOT USE>
 <!-- written by WED 2.5.2r1 -->
 <doc>
   <objects>
@@ -18395,32 +18395,4 @@
     <pref name="map_Taxiway_.Markings" value=""/>
     <pref name="map_Taxiway_Heading" value="0.000000"/>
     <pref name="map_Taxiway_Lights" value=""/>
-    <pref name="map_Taxiway_Markings" value=""/>
-    <pref name="map_Taxiway_Pavement" value="32"/>
-    <pref name="map_Taxiway_Roughness" value="0.000000"/>
-    <pref name="map_Tower Viewpoint_Tower Height" value="25.000000"/>
-    <pref name="map_Truck Destination_Truck Types" value=""/>
-    <pref name="map_Truck Parking_." value="3"/>
-    <pref name="map_Truck Parking_Truck Type" value="218"/>
-    <pref name="map_Vertex_Snap To Vertices" value="1"/>
-    <pref name="map_Windsock_Lit" value="0"/>
-    <pref name="map_preview_window/camera_agl" value="0.000000"/>
-    <pref name="map_preview_window/camera_lat" value="0.000000"/>
-    <pref name="map_preview_window/camera_lon" value="0.000000"/>
-    <pref name="map_preview_window/camera_pitch" value="-10.000000"/>
-    <pref name="map_preview_window/camera_yaw" value="0.000000"/>
-    <pref name="map_preview_window/height" value="787"/>
-    <pref name="map_preview_window/visible" value="0"/>
-    <pref name="map_preview_window/width" value="1024"/>
-    <pref name="map_preview_window/x_loc" value="26"/>
-    <pref name="map_preview_window/y_loc" value="26"/>
-    <pref name="window/height" value="989"/>
-    <pref name="window/main_split" value="342"/>
-    <pref name="window/main_split2" value="1408"/>
-    <pref name="window/prev_split" value="425"/>
-    <pref name="window/prop_split" value="645"/>
-    <pref name="window/width" value="1920"/>
-    <pref name="window/x_loc" value="-8"/>
-    <pref name="window/y_loc" value="-8"/>
-  </prefs>
-</doc>
+
